@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/KapaAutoFollow_source/static/js/app.55a581da.chunk.js",
-    "app.js.map": "/KapaAutoFollow_source/static/js/app.55a581da.chunk.js.map",
+    "app.js": "/KapaAutoFollow_source/static/js/app.724e629a.chunk.js",
+    "app.js.map": "/KapaAutoFollow_source/static/js/app.724e629a.chunk.js.map",
     "runtime~app.js": "/KapaAutoFollow_source/static/js/runtime~app.148625a9.js",
     "runtime~app.js.map": "/KapaAutoFollow_source/static/js/runtime~app.148625a9.js.map",
     "static/js/2.0aa565f8.chunk.js": "/KapaAutoFollow_source/static/js/2.0aa565f8.chunk.js",
@@ -39,6 +39,6 @@
   "entrypoints": [
     "static/js/runtime~app.148625a9.js",
     "static/js/2.0aa565f8.chunk.js",
-    "static/js/app.55a581da.chunk.js"
+    "static/js/app.724e629a.chunk.js"
   ]
 }
